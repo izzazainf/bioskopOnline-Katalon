@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Daftar</name>
+   <tag></tag>
+   <elementGuidId>a600321a-c5d4-4399-bf3d-d36774657833</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div/div[2]/div/div/div/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ee479c2a-aec4-4648-b50d-89c19d361e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-bold flex align-middle items-center</value>
+      <webElementGuid>ed90f5ed-daa0-4430-8b47-f8729fc42668</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Daftar </value>
+      <webElementGuid>189f5584-d39e-496a-bf08-c668419ea9b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full bg-blue-2 transition-all duration-300 ease-in-out header z-40   top-0 left-0&quot;]/div[@class=&quot;header container mx-auto py-4&quot;]/div[@class=&quot;flex justify-between&quot;]/div[@class=&quot;flex items-center text-white&quot;]/button[@class=&quot;w-36 mobile:w-24 mobile:py-1 flex items-center justify-center desktop:py-3 py-1 border border-blue-4 mr-4 bg-blue-2 text-blue-4 small text-button-small&quot;]/span[@class=&quot;font-bold flex align-middle items-center&quot;]</value>
+      <webElementGuid>06954f28-f987-4f7f-ba53-142900140aba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div/div[2]/div/div/div/button[2]/span</value>
+      <webElementGuid>005349b8-c133-4ccb-9d23-446f91e25179</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Film Saya'])[1]/following::span[1]</value>
+      <webElementGuid>64ccffb6-73fe-40a0-9986-03dabf47f971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beranda'])[1]/following::span[1]</value>
+      <webElementGuid>2e60752b-4e8b-46f5-9e74-dcc65e9c67a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masuk'])[1]/preceding::span[1]</value>
+      <webElementGuid>856a71df-9f1a-4e77-a686-c04608d995fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Drama'])[1]/preceding::span[2]</value>
+      <webElementGuid>3d599dc2-e722-49b8-a9ee-ff98aef9c1f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Daftar']/parent::*</value>
+      <webElementGuid>e107fc54-aa36-48ab-a284-8ae3fee626e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>ac76b316-1823-457d-ae78-0aa6c7448ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Daftar ' or . = ' Daftar ')]</value>
+      <webElementGuid>2ad2fec4-4a8e-4020-9908-80da3bbde88c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
